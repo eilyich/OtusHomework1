@@ -10,4 +10,7 @@
 - выполнена проверка работоспособности обученного алгоритма в среде
 - выведена видео-запись тестового запуска агента в среде
 
-Посмотреть тетрадь *с рендерингом видео*: [можно также здесь](https://nbviewer.org/github/eilyich/OtusHomework1/blob/master/homework.ipynb)
+
+
+Посмотреть notebook **с рендерингом видео**:  
+[можно также здесь](https://nbviewer.org/github/eilyich/OtusHomework1/blob/master/homework.ipynb)
