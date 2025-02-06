@@ -130,7 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-video/
+# video/
 env/
 venv/
 ENV/
