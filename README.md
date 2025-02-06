@@ -1,7 +1,7 @@
 # Домашняя работа 1
 ## Реализация алгоритма Q-learning
 
-( Посмотреть notebook **с рендерингом видео**:  [можно также здесь](https://nbviewer.org/github/eilyich/OtusHomework2/blob/master/homewok.ipynb?flush_cache=true) )
+( Посмотреть notebook **с рендерингом видео**:  [можно также здесь](https://nbviewer.org/github/eilyich/OtusHomework1/blob/master/homework.ipynb?flush_cache=true) )
 
 В данной работе реализован алгоритм Q-learning в тестовой среде `Taxi-v3`:
 - выполнена подготовка среды
